@@ -6,7 +6,7 @@ Recommended hardware configuration for a small team:
 4 GB+ of RAM
 50 GB+ of drive space
 
-##Install Java
+## Install Java
 Jenkins requires Java to run, yet not all Linux distributions include Java by default. Additionally, not all Java versions are compatible with Jenkins.
 
 ```
@@ -18,7 +18,7 @@ OpenJDK Runtime Environment (build 17.0.13+11-Debian-2)
 OpenJDK 64-Bit Server VM (build 17.0.13+11-Debian-2, mixed mode, sharing)
 ```
 
-##Install Jenkins
+## Install Jenkins
 
 ```
 sudo wget -O /usr/share/keyrings/jenkins-keyring.asc \
